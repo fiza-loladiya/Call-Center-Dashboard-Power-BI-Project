@@ -5,7 +5,8 @@ This project is an interactive **Call Center Dashboard** built in **Power BI** t
 
 The dashboard helps users quickly understand operational trends, service efficiency, and customer interaction patterns. It is designed to support better decision-making by providing both a high-level summary and a detailed transaction-level view.
 
-
+### Home Page
+![Home Page]Home.png)
 
 ## 🎯 Project Objective
 The main objective of this project is to monitor and analyze call center performance across multiple business dimensions such as:
